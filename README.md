@@ -1,6 +1,6 @@
 PicoWeb2040 Project
 
-• View/log sensor data or control fans, pumps, lights etc. with WiFi enabled basic web server.
+• View/log sensor data while controlling fans, pumps, lights etc. with WiFi enabled basic web server.
 
 • Runs on a RP2040 W and is programmed mostly in Micropython v1.20.0 with simple HTML.
 
