@@ -1,5 +1,5 @@
 server_name = 'PicoWeb - Beta Test'
-function = 'temps from greenhouse and control fan'
+function = 'get temps from greenhouse and control fan'
 location = '53.0000, -114.0000'
 
 ssid = 'MySSID'
