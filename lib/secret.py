@@ -1,10 +1,10 @@
 server_name = 'PicoWeb - Beta Test'
-function = 'temps from greenhouse'
-location = '53.7008, -114.0492'
+function = 'temps from greenhouse and control fan'
+location = '53.0000, -114.0000'
 
-ssid = 'ControlFreaks'
-password = 'control900289'
-# ssid = 'BG_North'
-# password = 'carpediem'
+ssid = 'MySSID'
+password = 'MyPassword'
+# ssid = 'MyOtherSSID'
+# password = 'MyOtherPassword'
 
 ADC_VREF = 2.5  # Voltage - float 2.5 or 3.3
