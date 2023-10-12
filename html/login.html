@@ -1,0 +1,78 @@
+<!DOCTYPE html> 
+<html> 
+<head>
+    <!-- comments here --> 
+    <!-- meta http-equiv="refresh" content="60" -->    
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PicoWeb Login</title>
+    <link rel="icon" href="http://{{myip}}/images/favicon.ico">
+    <link rel="apple-touch-icon" href="http://{{myip}}/images/apple-touch-icon.png">
+<style> 
+
+
+Body {
+    font-family:monaco;
+    background-color: #3c3c3c;
+    /*background-image: url("http://{{myip}}/images/background.png");*/
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: width=75%;
+    background-position: center;
+
+}
+button { 
+        background-color: #0e2c68; 
+        width: 100%;
+        color: #F9FFAF; 
+        padding: 10px; 
+        margin: 10px 0px; 
+        border: none;
+        -webkit-border-radius: 20px;
+        border: none; 
+        cursor: pointer; 
+         } 
+
+ input[type=text], input[type=password] { 
+        background-color: #F9FFAF;
+        width: 100%;  
+        padding: 10px;
+        margin: 10px 0;
+        border: none;
+        -webkit-border-radius: 20px;
+        display: inline-block; 
+        box-sizing: border-box; 
+    }
+ button:hover { 
+        opacity: 0.7; 
+    } 
+ 
+ button:active {
+        background-color: #8D0044;
+        transform: translateY(4px);
+    }   
+   
+ .container { 
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 25px; 
+        background-color: Transparent;
+    } 
+</style> 
+</head>  
+<body>  
+    <center> <h1><br><br><br><br><br></h1> </center> 
+    <form method="POST">
+        <div class="container"> 
+            <label></label> 
+            <input type="text" style="text-align: center; font-family:'monaco';font-size:100%; placeholder="Enter Username" name="username" required>
+            <label></label> 
+            <input type="password" style="text-align: center; font-family:'monaco';font-size:100%; placeholder="Enter Password" name="password" required>
+            <button type="submit" style="font-family:'monaco';font-size:100%;">Login</button> 
+        </div> 
+    </form>   
+</body>   
+</html>

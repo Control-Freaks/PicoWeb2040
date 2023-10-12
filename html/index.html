@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- meta refresh and redirect - https://www.youtube.com/watch?v=FoqPpCXgFHc -->
+    <meta http-equiv="refresh" content="30; /index_PWxHb44hqTXumXIykgDS">    
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PicoWeb</title>
+    <link rel="icon" href="http://{{myip}}/images/favicon.ico">
+    <link rel="apple-touch-icon" href="http://{{myip}}/images/apple-touch-icon.png">
+<style>
+
+    body {
+      background-color: #3c3c3c;
+      background-image: url("http://{{myip}}/images/background.png");
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-attachment: fixed; 
+      background-size: width=75%;
+      background-position: center;
+      }
+    
+
+table, th, td {
+  border: 1px solid #1B55C4;
+  border-collapse: collapse;
+  margin-left:auto;
+  margin-right:auto;
+}
+th, td {
+  padding: 5px;
+  text-align: left;
+}
+
+.button {
+  width:100%;
+  padding: 5;
+  -webkit-border-radius: 15px;
+  font-size:85%;
+  font-family:monaco;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #F9FFAF;
+  background-color: #0B476C;
+  border: none;
+  border-radius: 15px;
+
+}
+.button:hover { 
+  opacity: 0.7;
+}
+
+.button:active {
+  background-color: #8D0044;
+  transform: translateY(2px);
+}
+
+</style>
+</head>
+<body>
+
+    <h1 
+    style="color:#F9FFAF; font-family:monaco; font-size:160%; text-align: center; ">{{header}}	
+    </h1>
+
+<table style="width:65%; color:#F9FFAF; font-family:monaco;" >
+  <tr>
+    <th>Location</th>
+    <td>{{gps}}</td>
+    <th>Lat, Long</th>
+  </tr>
+  <tr>
+    <th>Started</th>
+    <td>{{time}}</td>
+    <th>UTC</th>
+  </tr>
+  <tr>
+    <th>MAC</th>
+    <td>{{mac}}</td>
+    <th></th>
+  </tr>
+  <tr>
+    <th>IP</th>
+    <td>{{myip}}</td>
+    <th></th>
+  </tr>    
+  <tr>
+    <th>RSSI</th>
+    <td>{{signal}}</td>
+    <th>dB</th>
+  </tr>    
+  <tr>
+    <th>DS18B20</th>
+    <td>{{tempA}}</td>
+    <th>GPIO22</th>
+  </tr>  
+  <tr>
+    <th>CPU_Temp</th>
+    <td>{{tempB}}</td>
+    <th>°C</th>
+  </tr>    
+  <tr>
+    <th>ADC_0</th>
+    <td>{{adc0}}</td>
+    <th>GPIO26</th>
+  </tr>  
+  <tr>
+    <th>ADC_1</th>
+    <td>{{adc1}}</td>
+    <th>GPIO27</th>
+  </tr>  
+  <tr>
+    <th>ADC_2</th>
+    <td>{{adc2}}</td>
+    <th>GPIO28</th>
+  </tr>  
+  <tr>
+    <th>Output_0</th>
+    <td>{{State_0}}</td>
+    <th align='center'>
+      <button class="button" ontouchstart="window.location.href='http://{{myip}}/toggle_0'"
+        onclick="window.location.href='http://{{myip}}/out0_toggle_PWxHb44hqTXumXIykgDS'">Toggle
+    </th>
+  </tr>  
+  <tr>
+    <th>Output_1</th>
+    <td>{{State_1}}</td>
+    <th align='center'>
+      <button class="button" ontouchstart="window.location.href='http://{{myip}}/toggle_1'"
+        onclick="window.location.href='http://{{myip}}/out1_toggle_PWxHb44hqTXumXIykgDS'">Toggle
+    </th>
+  </tr>  
+  <tr>
+    <th>Output_2</th>
+    <td>{{State_2}}</td>
+    <th align='center'>
+      <button class="button" ontouchstart="window.location.href='http://{{myip}}/toggle_2'"
+        onclick="window.location.href='http://{{myip}}/out2_toggle_PWxHb44hqTXumXIykgDS'">Toggle
+    </th>
+  </tr>
+      
+</table>
+
+
+
+
+<p><br>
+    <h2 
+    style="color:#F9FFAF; font-family:monaco; font-size:160%; text-align: center; ">	
+    </h2>
+  </br></p>
+
+
+
+
+<table style="width:65%; color:#F9FFAF; font-family:monaco;" >
+  <tr>
+    
+    <th align='center'>
+    <button class="button" ontouchstart="window.location.href='http://{{myip}}/images/pinout.png'" 
+      onclick="window.location.href='http://{{myip}}/images/pinout.png'">2040  
+    </th>
+    
+    <th align='center'>
+      <button class="button" ontouchstart="window.location.href='http://{{myip}}/images/schematic.png'"
+        onclick="window.location.href='http://{{myip}}/images/schematic.png'">Board 
+    </th>
+    
+    <th align='center'>
+      <button class="button" 
+            ontouchstart="window.location.href='http://{{myip}}/log_PWxHb44hqTXumXIykgDS'"
+            onclick="window.location.href='http://{{myip}}/log_PWxHb44hqTXumXIykgDS'">Log    
+    </th>
+    
+    <th align='center'>
+      <button class="button" 
+          ontouchstart="window.open('http://{{myip}}/ftp_PWxHb44hqTXumXIykgDS' + location.search)"   
+          onclick="window.open('http://{{myip}}/ftp_PWxHb44hqTXumXIykgDS' + location.search)"
+        >FTP
+    </th>
+    
+    <th align='center'>
+      <button class="button" ontouchstart="window.location.href='http://{{myip}}/reboot_PWxHb44hqTXumXIykgDS'"
+        onclick="window.location.href='http://{{myip}}/reboot_PWxHb44hqTXumXIykgDS'">Boot
+    </th>
+    
+  </tr>
+</body>
+
+</html>
