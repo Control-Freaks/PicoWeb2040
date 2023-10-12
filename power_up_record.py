@@ -1,0 +1,1 @@
+last_power_up = 'interrupted'

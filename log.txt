@@ -1,0 +1,444 @@
+2021-01-01 00:00:20 [debug    / 116kB] > IP 192.168.0.132
+2021-01-01 00:00:21 [debug    / 112kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -39, 5, 8), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -75, 5, 2), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -42, 5, 6), (b'', b'\x9cS"|y\xde', 8, -44, 5, 3), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -57, 5, 3), (b'', b'0\xdeKQ\xa7\x8e', 8, -76, 5, 1), (b'', b'\x9cS"|]\xf6', 8, -55, 5, 2), (b'', b'N"TQ\x9a:', 8, -87, 5, 1)]
+2021-01-01 00:00:22 [debug    / 109kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 02:23:35 [debug    / 131kB] NTP: (2023, 6, 26, 2, 23, 34, 0, 177)
+2023-06-26 02:23:35 [info     / 121kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 111kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -39, 5, 7), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -44, 5, 2), (b'ControlFreaks', b'H"TQ\x9a:', 8, -83, 5, 1), (b'', b'\x9cS"|]\xf6', 8, -44, 5, 2), (b'Our House', b'\x04\xd4\xc4\x1b\x06`', 2, -88, 5, 1), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -57, 5, 1), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -78, 5, 2)]
+2021-01-01 00:00:22 [debug    / 107kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 02:43:56 [debug    / 129kB] NTP: (2023, 6, 26, 2, 43, 55, 0, 177)
+2023-06-26 02:43:56 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 111kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -38, 5, 10), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -44, 5, 6), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -53, 5, 4), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -77, 5, 2), (b'', b'\x9cS"|y\xde', 8, -43, 5, 3), (b'', b'0\xdeKQ\xa7\x8e', 8, -81, 5, 2), (b'', b'\x9cS"|]\xf6', 8, -53, 5, 1)]
+2021-01-01 00:00:22 [debug    / 108kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 03:04:17 [debug    / 118kB] NTP: (2023, 6, 26, 3, 4, 16, 0, 177)
+2023-06-26 03:04:17 [info     / 109kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:21 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 111kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -38, 5, 9), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -76, 5, 4), (b'ControlFreaks', b'H"TQ\x9a:', 8, -87, 5, 1), (b'', b'\x9cS"|]\xf6', 8, -47, 5, 2), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -47, 5, 5), (b'', b'\x9cS"|y\xde', 8, -37, 5, 1), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -52, 5, 2)]
+2021-01-01 00:00:22 [debug    / 107kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 03:24:36 [debug    / 129kB] NTP: (2023, 6, 26, 3, 24, 35, 0, 177)
+2023-06-26 03:24:36 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 110kB] > APSCAN [(b'', b'\x9cS"|y\xde', 8, -38, 5, 4), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -46, 5, 6), (b'ControlFreaks', b'H"TQ\x9a:', 8, -89, 5, 1), (b'ControlFreaks', b'\x9e#"|y\xde', 8, -38, 5, 5), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -78, 5, 3), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -57, 5, 2), (b'', b'\x9cS"|]\xf6', 8, -47, 5, 2), (b'', b'0\xdeKQ\xa7\x8e', 8, -85, 5, 1)]
+2021-01-01 00:00:22 [debug    / 107kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 03:44:57 [debug    / 129kB] NTP: (2023, 6, 26, 3, 44, 56, 0, 177)
+2023-06-26 03:44:57 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 111kB] > APSCAN [(b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -79, 5, 2), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -46, 5, 5), (b'ControlFreaks', b'\x9e#"|y\xde', 8, -39, 5, 7), (b'', b'\x9cS"|]\xf6', 8, -58, 5, 2), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -58, 5, 2), (b'', b'0\xdeKQ\xa7\x8e', 8, -83, 5, 1)]
+2021-01-01 00:00:22 [debug    / 108kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 04:05:17 [debug    / 129kB] NTP: (2023, 6, 26, 4, 5, 16, 0, 177)
+2023-06-26 04:05:17 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 112kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -37, 5, 9), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -79, 5, 1), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -46, 5, 2), (b'', b'\x9cS"|y\xde', 8, -40, 5, 3), (b'Our House', b'\x04\xd4\xc4\x1b\x06`', 2, -92, 5, 1), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -53, 5, 3), (b'', b'\x9cS"|]\xf6', 8, -56, 5, 1)]
+2021-01-01 00:00:22 [debug    / 109kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 04:25:37 [debug    / 107kB] NTP: (2023, 6, 26, 4, 25, 36, 0, 177)
+2023-06-26 04:25:37 [info     / 122kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 110kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -37, 5, 8), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -43, 5, 4), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -80, 5, 2), (b'', b'\x9cS"|y\xde', 8, -44, 5, 3), (b'ControlFreaks', b'H"TQ\x9a:', 8, -87, 5, 1), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -56, 5, 3), (b'', b'\x9cS"|]\xf6', 8, -54, 5, 2), (b'', b'0\xdeKQ\xa7\x8e', 8, -84, 5, 1)]
+2021-01-01 00:00:23 [debug    / 119kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 04:45:58 [debug    / 117kB] NTP: (2023, 6, 26, 4, 45, 57, 0, 177)
+2023-06-26 04:45:58 [info     / 107kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 110kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -38, 5, 10), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -45, 5, 8), (b'ControlFreaks', b'H"TQ\x9a:', 8, -89, 5, 2), (b'Our House', b'\x04\xd4\xc4\x1b\x06`', 2, -90, 5, 2), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -59, 5, 3), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -76, 5, 3), (b'', b'\x9cS"|]\xf6', 8, -56, 5, 1), (b'', b'0\xdeKQ\xa7\x8e', 8, -82, 5, 1)]
+2021-01-01 00:00:22 [debug    / 107kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 05:06:18 [debug    / 129kB] NTP: (2023, 6, 26, 5, 6, 17, 0, 177)
+2023-06-26 05:06:19 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 110kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -39, 5, 4), (b'ControlFreaks', b'H"TQ\x9a:', 8, -92, 5, 1), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -78, 5, 4), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -45, 5, 6), (b'Our House', b'\x04\xd4\xc4\x1b\x06`', 2, -90, 5, 1), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -54, 5, 3), (b'', b'0\xdeKQ\xa7\x8e', 8, -81, 5, 2), (b'', b'\x9cS"|y\xde', 8, -41, 5, 1), (b'', b'\x9cS"|]\xf6', 8, -58, 5, 1)]
+2021-01-01 00:00:22 [debug    / 107kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 05:26:38 [debug    / 129kB] NTP: (2023, 6, 26, 5, 26, 37, 0, 177)
+2023-06-26 05:26:38 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 110kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -37, 5, 7), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -46, 5, 5), (b'', b'\x9cS"|y\xde', 8, -38, 5, 2), (b'', b'0\xdeKQ\xa7\x8e', 8, -77, 5, 2), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -52, 5, 4), (b'', b'\x9cS"|]\xf6', 8, -45, 5, 2), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -75, 5, 2)]
+2021-01-01 00:00:22 [debug    / 107kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 05:46:58 [debug    / 129kB] NTP: (2023, 6, 26, 5, 46, 57, 0, 177)
+2023-06-26 05:46:58 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 111kB] > APSCAN [(b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -79, 5, 3), (b'ControlFreaks', b'\x9e#"|y\xde', 8, -37, 5, 10), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -46, 5, 4), (b'', b'\x9cS"|y\xde', 8, -42, 5, 2), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -50, 5, 3), (b'', b'0\xdeKQ\xa7\x8e', 8, -79, 5, 2), (b'', b'\x9cS"|]\xf6', 8, -55, 5, 1)]
+2021-01-01 00:00:22 [debug    / 108kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 06:07:18 [debug    / 129kB] NTP: (2023, 6, 26, 6, 7, 17, 0, 177)
+2023-06-26 06:07:18 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    /  85kB]   - connecting
+2021-01-01 00:00:20 [debug    /  83kB]   - wrong password
+2021-01-01 00:00:20 [debug    /  81kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 129kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -37, 5, 10), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -76, 5, 5), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -47, 5, 3), (b'', b'\x9cS"|]\xf6', 8, -45, 5, 1), (b'', b'\x9cS"|y\xde', 8, -39, 5, 3), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -53, 5, 3), (b'', b'0\xdeKQ\xa7\x8e', 8, -81, 5, 1)]
+2021-01-01 00:00:22 [debug    / 126kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 06:27:38 [debug    / 123kB] NTP: (2023, 6, 26, 6, 27, 37, 0, 177)
+2023-06-26 06:27:38 [info     / 114kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 110kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -37, 5, 5), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -78, 5, 3), (b'', b'\x9cS"|]\xf6', 8, -48, 5, 2), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -46, 5, 4), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -51, 5, 3), (b'', b'\x9cS"|y\xde', 8, -41, 5, 2), (b'', b'0\xdeKQ\xa7\x8e', 8, -81, 5, 2), (b'ControlFreaks', b'H"TQ\x9a:', 8, -90, 5, 1)]
+2021-01-01 00:00:22 [debug    / 107kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 06:47:59 [debug    / 129kB] NTP: (2023, 6, 26, 6, 47, 58, 0, 177)
+2023-06-26 06:47:59 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 110kB] > APSCAN [(b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -76, 5, 2), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -43, 5, 5), (b'ControlFreaks', b'\x9e#"|y\xde', 8, -38, 5, 7), (b'', b'\x9cS"|y\xde', 8, -38, 5, 1), (b'', b'0\xdeKQ\xa7\x8e', 8, -79, 5, 1), (b'Our House', b'\x04\xd4\xc4\x1b\x06`', 2, -91, 5, 1), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -48, 5, 3), (b'', b'\x9cS"|]\xf6', 8, -47, 5, 3)]
+2021-01-01 00:00:22 [debug    / 107kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 07:08:19 [debug    / 129kB] NTP: (2023, 6, 26, 7, 8, 18, 0, 177)
+2023-06-26 07:08:19 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 112kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -38, 5, 8), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -44, 5, 4), (b'Our House', b'\x04\xd4\xc4\x1b\x06`', 2, -92, 5, 1), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -53, 5, 3), (b'', b'\x9cS"|]\xf6', 8, -47, 5, 2), (b'', b'0\xdeKQ\xa7\x8e', 8, -82, 5, 1), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -83, 5, 1)]
+2021-01-01 00:00:22 [debug    / 109kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 07:28:39 [debug    / 107kB] NTP: (2023, 6, 26, 7, 28, 38, 0, 177)
+2023-06-26 07:28:39 [info     / 122kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:16 [debug    / 118kB] > IP 192.168.0.132
+2021-01-01 00:00:18 [debug    / 114kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|]\xf6', 8, -45, 5, 4), (b'ControlFreaks', b'\x9e#"|y\xde', 8, -39, 5, 10), (b'Our House', b'\x04\xd4\xc4\x1b\x06`', 2, -89, 5, 3), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -51, 5, 4), (b'', b'0\xdeKQ\xa7\x8e', 8, -80, 5, 1), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -80, 5, 1), (b'', b'\x9cS"|]\xf6', 8, -57, 5, 1)]
+2021-01-01 00:00:18 [debug    / 111kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 07:48:56 [debug    / 122kB] NTP: (2023, 6, 26, 7, 48, 55, 0, 177)
+2023-06-26 07:48:56 [info     / 113kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 110kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|]\xf6', 8, -44, 5, 5), (b'ControlFreaks', b'\x9e#"|y\xde', 8, -37, 5, 11), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -76, 5, 2), (b'', b'\x9cS"|y\xde', 8, -84, 5, 1), (b'Our House', b'\x04\xd4\xc4\x1b\x06`', 2, -91, 5, 1), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -51, 5, 2)]
+2021-01-01 00:00:22 [debug    / 108kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 08:09:20 [debug    / 129kB] NTP: (2023, 6, 26, 8, 9, 19, 0, 177)
+2023-06-26 08:09:20 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 110kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|]\xf6', 8, -47, 5, 3), (b'ControlFreaks', b'\x9e#"|y\xde', 8, -37, 5, 11), (b'Our House', b'\x04\xd4\xc4\x1b\x06`', 2, -89, 5, 1), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -51, 5, 3), (b'', b'0\xdeKQ\xa7\x8e', 8, -80, 5, 3), (b'', b'\x9cS"|]\xf6', 8, -47, 5, 2), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -76, 5, 3), (b'', b'\x9cS"|y\xde', 8, -44, 5, 1)]
+2021-01-01 00:00:22 [debug    / 107kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 08:29:40 [debug    / 129kB] NTP: (2023, 6, 26, 8, 29, 39, 0, 177)
+2023-06-26 08:29:40 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 110kB] > APSCAN [(b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -78, 5, 4), (b'ControlFreaks', b'H"TQ\x9a:', 8, -88, 5, 2), (b'', b'\x9cS"|y\xde', 8, -42, 5, 3), (b'ControlFreaks', b'\x9e#"|y\xde', 8, -39, 5, 11), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -45, 5, 5), (b'Our House', b'\x04\xd4\xc4\x1b\x06`', 2, -89, 5, 1), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -50, 5, 3), (b'', b'0\xdeKQ\xa7\x8e', 8, -90, 5, 1), (b'', b'\x9cS"|]\xf6', 8, -58, 5, 1)]
+2021-01-01 00:00:22 [debug    / 107kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 08:50:00 [debug    / 129kB] NTP: (2023, 6, 26, 8, 49, 59, 0, 177)
+2023-06-26 08:50:00 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 110kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -39, 5, 6), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -46, 5, 10), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -77, 5, 4), (b'', b'\x9cS"|y\xde', 8, -56, 5, 2), (b'', b'\x9cS"|]\xf6', 8, -50, 5, 4), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -51, 5, 2), (b'', b'0\xdeKQ\xa7\x8e', 8, -82, 5, 1)]
+2021-01-01 00:00:22 [debug    / 107kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 09:10:20 [debug    / 129kB] NTP: (2023, 6, 26, 9, 10, 19, 0, 177)
+2023-06-26 09:10:20 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 110kB] > APSCAN [(b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -76, 5, 3), (b'ControlFreaks', b'\x9e#"|y\xde', 8, -38, 5, 11), (b'', b'\x9cS"|]\xf6', 8, -42, 5, 2), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -46, 5, 6), (b'Our House', b'\x04\xd4\xc4\x1b\x06`', 2, -88, 5, 2), (b'', b'\x9cS"|y\xde', 8, -41, 5, 2), (b'ControlFreaks', b'H"TQ\x9a:', 8, -89, 5, 1), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -50, 5, 3), (b'', b'0\xdeKQ\xa7\x8e', 8, -82, 5, 1)]
+2021-01-01 00:00:23 [debug    / 119kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 09:30:41 [debug    / 116kB] NTP: (2023, 6, 26, 9, 30, 40, 0, 177)
+2023-06-26 09:30:41 [info     / 107kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 111kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -37, 5, 7), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -74, 5, 8), (b'', b'\x9cS"|y\xde', 8, -42, 5, 1), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -50, 5, 4), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -46, 5, 4), (b'', b'\x9cS"|]\xf6', 8, -57, 5, 1), (b'', b'0\xdeKQ\xa7\x8e', 8, -81, 5, 1)]
+2021-01-01 00:00:22 [debug    / 108kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 09:51:01 [debug    / 129kB] NTP: (2023, 6, 26, 9, 51, 0, 0, 177)
+2023-06-26 09:51:01 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 110kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -38, 5, 7), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -74, 5, 5), (b'', b'\x9cS"|]\xf6', 8, -44, 5, 1), (b'', b'0\xdeKQ\xa7\x8e', 8, -77, 5, 1), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -43, 5, 5), (b'ControlFreaks', b'H"TQ\x9a:', 8, -84, 5, 2), (b'Our House', b'\x04\xd4\xc4\x1b\x06`', 2, -86, 5, 1), (b'', b'\x9cS"|y\xde', 8, -39, 5, 3), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -50, 5, 3)]
+2021-01-01 00:00:22 [debug    / 107kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 10:11:21 [debug    / 129kB] NTP: (2023, 6, 26, 10, 11, 20, 0, 177)
+2023-06-26 10:11:21 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:21 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 110kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|]\xf6', 8, -44, 5, 4), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -78, 5, 2), (b'ControlFreaks', b'\x9e#"|y\xde', 8, -38, 5, 5), (b'Our House', b'\x04\xd4\xc4\x1b\x06`', 2, -82, 5, 2), (b'', b'\x9cS"|]\xf6', 8, -57, 5, 2), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -48, 5, 2), (b'', b'\x9cS"|y\xde', 8, -45, 5, 1), (b'', b'0\xdeKQ\xa7\x8e', 8, -82, 5, 1)]
+2021-01-01 00:00:22 [debug    / 107kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 10:31:41 [debug    / 129kB] NTP: (2023, 6, 26, 10, 31, 40, 0, 177)
+2023-06-26 10:31:41 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 110kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -37, 5, 9), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -47, 5, 2), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -76, 5, 3), (b'Our House', b'\x04\xd4\xc4\x1b\x06`', 2, -90, 5, 1), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -50, 5, 3), (b'', b'\x9cS"|]\xf6', 8, -62, 5, 1), (b'', b'0\xdeKQ\xa7\x8e', 8, -80, 5, 3), (b'', b'\x9cS"|y\xde', 8, -40, 5, 1)]
+2021-01-01 00:00:23 [debug    / 120kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 10:52:02 [debug    / 118kB] NTP: (2023, 6, 26, 10, 52, 1, 0, 177)
+2023-06-26 10:52:02 [info     / 108kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:16 [debug    / 118kB] > IP 192.168.0.132
+2021-01-01 00:00:18 [debug    / 114kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -38, 5, 4), (b'', b'\x9cS"|y\xde', 8, -36, 5, 1), (b'', b'0\xdeKQ\xa7\x8e', 8, -78, 5, 2), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -79, 5, 2), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -46, 5, 4), (b'Our House', b'\x04\xd4\xc4\x1b\x06`', 2, -89, 5, 1), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -55, 5, 3), (b'', b'\x9cS"|]\xf6', 8, -55, 5, 1)]
+2021-01-01 00:00:18 [debug    / 111kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 11:12:18 [debug    / 108kB] NTP: (2023, 6, 26, 11, 12, 17, 0, 177)
+2023-06-26 11:12:18 [info     / 123kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 111kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -37, 5, 8), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -73, 5, 6), (b'', b'\x9cS"|]\xf6', 8, -47, 5, 2), (b'', b'\x9cS"|y\xde', 8, -39, 5, 2), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -47, 5, 3), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -49, 5, 2), (b'', b'0\xdeKQ\xa7\x8e', 8, -83, 5, 1)]
+2021-01-01 00:00:22 [debug    / 108kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 11:32:42 [debug    / 129kB] NTP: (2023, 6, 26, 11, 32, 41, 0, 177)
+2023-06-26 11:32:42 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 110kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -38, 5, 7), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -76, 5, 4), (b'', b'0\xdeKQ\xa7\x8e', 8, -76, 5, 2), (b'Our House', b'\x04\xd4\xc4\x1b\x06`', 2, -88, 5, 2), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -49, 5, 3), (b'', b'\x9cS"|]\xf6', 8, -49, 5, 2), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -50, 5, 2), (b'', b'\x9cS"|y\xde', 8, -52, 5, 1)]
+2021-01-01 00:00:22 [debug    / 107kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 11:53:02 [debug    / 129kB] NTP: (2023, 6, 26, 11, 53, 1, 0, 177)
+2023-06-26 11:53:02 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 110kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|]\xf6', 8, -47, 5, 3), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -83, 5, 2), (b'ControlFreaks', b'H"TQ\x9a:', 8, -88, 5, 1), (b'ControlFreaks', b'\x9e#"|y\xde', 8, -39, 5, 5), (b'Our House', b'\x04\xd4\xc4\x1b\x06`', 2, -86, 5, 1), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -53, 5, 3), (b'', b'\x9cS"|y\xde', 8, -44, 5, 1), (b'', b'0\xdeKQ\xa7\x8e', 8, -79, 5, 2), (b'', b'\x9cS"|]\xf6', 8, -56, 5, 2)]
+2021-01-01 00:00:22 [debug    / 107kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 12:13:23 [debug    / 129kB] NTP: (2023, 6, 26, 12, 13, 22, 0, 177)
+2023-06-26 12:13:23 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 111kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -37, 5, 8), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -45, 5, 6), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -76, 5, 2), (b'', b'\x9cS"|y\xde', 8, -40, 5, 2), (b'', b'0\xdeKQ\xa7\x8e', 8, -76, 5, 2), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -53, 5, 4), (b'', b'\x9cS"|]\xf6', 8, -74, 5, 1)]
+2021-01-01 00:00:23 [debug    / 120kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 12:33:43 [debug    / 118kB] NTP: (2023, 6, 26, 12, 33, 42, 0, 177)
+2023-06-26 12:33:43 [info     / 108kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 110kB] > APSCAN [(b'', b'N"TQ\x9a:', 8, -87, 5, 1), (b'ControlFreaks', b'H"TQ\x9a:', 8, -88, 5, 2), (b'', b'\x9cS"|y\xde', 8, -37, 5, 2), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -46, 5, 3), (b'ControlFreaks', b'\x9e#"|y\xde', 8, -38, 5, 7), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -76, 5, 3), (b'Our House', b'\x04\xd4\xc4\x1b\x06`', 2, -82, 5, 2), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -52, 5, 3), (b'', b'\x9cS"|]\xf6', 8, -48, 5, 2), (b'', b'0\xdeKQ\xa7\x8e', 8, -85, 5, 1)]
+2021-01-01 00:00:22 [debug    / 106kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 12:54:03 [debug    / 129kB] NTP: (2023, 6, 26, 12, 54, 2, 0, 177)
+2023-06-26 12:54:03 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 110kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -40, 5, 6), (b'ControlFreaks', b'H"TQ\x9a:', 8, -89, 5, 1), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -47, 5, 3), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -55, 5, 3), (b'', b'\x9cS"|y\xde', 8, -43, 5, 2), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -72, 5, 2), (b'', b'0\xdeKQ\xa7\x8e', 8, -80, 5, 1), (b'', b'\x9cS"|]\xf6', 8, -55, 5, 1)]
+2021-01-01 00:00:22 [debug    / 107kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 13:14:23 [debug    / 129kB] NTP: (2023, 6, 26, 13, 14, 22, 0, 177)
+2023-06-26 13:14:23 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:21 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 110kB] > APSCAN [(b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -75, 5, 5), (b'ControlFreaks', b'\x9e#"|y\xde', 8, -39, 5, 9), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -55, 5, 4), (b'', b'\x9cS"|y\xde', 8, -45, 5, 3), (b'', b'0\xdeKQ\xa7\x8e', 8, -83, 5, 1), (b'', b'\x9cS"|]\xf6', 8, -55, 5, 1), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -55, 5, 1)]
+2021-01-01 00:00:22 [debug    / 107kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 13:34:43 [debug    / 129kB] NTP: (2023, 6, 26, 13, 34, 42, 0, 177)
+2023-06-26 13:34:43 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:22 [debug    / 118kB]   - connecting
+2021-01-01 00:00:22 [debug    / 116kB] > IP 192.168.0.132
+2021-01-01 00:00:24 [debug    / 112kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -41, 5, 6), (b'', b'\x9cS"|y\xde', 8, -39, 5, 2), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -50, 5, 2), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -54, 5, 3), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -75, 5, 2), (b'', b'\x9cS"|]\xf6', 8, -56, 5, 1), (b'', b'0\xdeKQ\xa7\x8e', 8, -85, 5, 1)]
+2021-01-01 00:00:24 [debug    / 109kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 13:55:06 [debug    / 121kB] NTP: (2023, 6, 26, 13, 55, 5, 0, 177)
+2023-06-26 13:55:06 [info     / 112kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 110kB] > APSCAN [(b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -70, 5, 7), (b'ControlFreaks', b'H"TQ\x9a:', 8, -89, 5, 1), (b'ControlFreaks', b'\x9e#"|y\xde', 8, -42, 5, 2), (b'', b'\x9cS"|y\xde', 8, -52, 5, 2), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -50, 5, 2), (b'', b'\x9cS"|]\xf6', 8, -46, 5, 2), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -61, 5, 1), (b'', b'0\xdeKQ\xa7\x8e', 8, -82, 5, 1)]
+2021-01-01 00:00:22 [debug    / 107kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 14:15:24 [debug    / 129kB] NTP: (2023, 6, 26, 14, 15, 23, 0, 177)
+2023-06-26 14:15:24 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 110kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -39, 5, 4), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -71, 5, 2), (b'', b'\x9cS"|]\xf6', 8, -46, 5, 2), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -47, 5, 5), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -56, 5, 3), (b'', b'0\xdeKQ\xa7\x8e', 8, -77, 5, 2)]
+2021-01-01 00:00:22 [debug    / 108kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 14:35:44 [debug    / 129kB] NTP: (2023, 6, 26, 14, 35, 43, 0, 177)
+2023-06-26 14:35:44 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:16 [debug    / 118kB] > IP 192.168.0.132
+2021-01-01 00:00:18 [debug    / 114kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|]\xf6', 8, -45, 5, 3), (b'ControlFreaks', b'\x9e#"|y\xde', 8, -38, 5, 6), (b'', b'\x9cS"|y\xde', 8, -38, 5, 5), (b'', b'0\xdeKQ\xa7\x8e', 8, -73, 5, 2), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -71, 5, 2), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -51, 5, 2), (b'', b'\x9cS"|]\xf6', 8, -53, 5, 3)]
+2021-01-01 00:00:18 [debug    / 111kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2021-01-01 00:00:28 [debug    / 109kB] NTP: None
+2021-01-01 00:00:29 [info     / 123kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 111kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -40, 5, 8), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -82, 5, 2), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -47, 5, 3), (b'', b'\x9cS"|y\xde', 8, -45, 5, 3), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -56, 5, 2)]
+2021-01-01 00:00:22 [debug    / 108kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 15:16:25 [debug    / 129kB] NTP: (2023, 6, 26, 15, 16, 24, 0, 177)
+2023-06-26 15:16:26 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB] > IP 192.168.0.132
+2021-01-01 00:00:21 [debug    / 112kB] > APSCAN [(b'', b'0\xdeKQ\xa7\x8e', 8, -75, 5, 2), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -74, 5, 6), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -47, 5, 5), (b'', b'\x9cS"|]\xf6', 8, -47, 5, 3), (b'ControlFreaks', b'\x9e#"|y\xde', 8, -39, 5, 8), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -58, 5, 2), (b'', b'\x9cS"|y\xde', 8, -55, 5, 1)]
+2021-01-01 00:00:22 [debug    / 109kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 15:36:45 [debug    / 121kB] NTP: (2023, 6, 26, 15, 36, 44, 0, 177)
+2023-06-26 15:36:45 [info     / 112kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 111kB] > APSCAN [(b'', b'\x9cS"|y\xde', 8, -39, 5, 3), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -73, 5, 4), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -49, 5, 5), (b'', b'0\xdeKQ\xa7\x8e', 8, -74, 5, 2), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -57, 5, 4), (b'ControlFreaks', b'\x9e#"|y\xde', 8, -38, 5, 6), (b'', b'\x9cS"|]\xf6', 8, -56, 5, 3)]
+2021-01-01 00:00:22 [debug    / 108kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 15:57:05 [debug    / 129kB] NTP: (2023, 6, 26, 15, 57, 4, 0, 177)
+2023-06-26 15:57:05 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 112kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|]\xf6', 8, -47, 5, 5), (b'ControlFreaks', b'\x9e#"|y\xde', 8, -38, 5, 5), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -79, 5, 3), (b'Our House', b'\x04\xd4\xc4\x1b\x06`', 2, -90, 5, 1), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -54, 5, 3), (b'', b'0\xdeKQ\xa7\x8e', 8, -79, 5, 2), (b'', b'\x9cS"|]\xf6', 8, -51, 5, 1), (b'', b'\x9cS"|y\xde', 8, -43, 5, 1)]
+2021-01-01 00:00:22 [debug    / 109kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 16:17:25 [debug    / 106kB] NTP: (2023, 6, 26, 16, 17, 24, 0, 177)
+2023-06-26 16:17:25 [info     / 122kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 110kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -38, 5, 8), (b'ControlFreaks', b'H"TQ\x9a:', 8, -87, 5, 2), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -76, 5, 5), (b'', b'\x9cS"|y\xde', 8, -38, 5, 2), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -45, 5, 4), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -54, 5, 2), (b'', b'0\xdeKQ\xa7\x8e', 8, -81, 5, 2), (b'', b'\x9cS"|]\xf6', 8, -54, 5, 1)]
+2021-01-01 00:00:22 [debug    / 107kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 16:37:45 [debug    / 129kB] NTP: (2023, 6, 26, 16, 37, 44, 0, 177)
+2023-06-26 16:37:45 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 111kB] > APSCAN [(b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -78, 5, 3), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -43, 5, 5), (b'ControlFreaks', b'\x9e#"|y\xde', 8, -39, 5, 7), (b'', b'\x9cS"|y\xde', 8, -82, 5, 1), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -52, 5, 2), (b'', b'0\xdeKQ\xa7\x8e', 8, -86, 5, 1), (b'', b'\x9cS"|]\xf6', 8, -54, 5, 2)]
+2021-01-01 00:00:22 [debug    / 108kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 16:58:06 [debug    / 129kB] NTP: (2023, 6, 26, 16, 58, 5, 0, 177)
+2023-06-26 16:58:06 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:22 [debug    / 118kB]   - connecting
+2021-01-01 00:00:22 [debug    / 116kB] > IP 192.168.0.132
+2021-01-01 00:00:23 [debug    / 112kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -38, 5, 5), (b'ControlFreaks', b'H"TQ\x9a:', 8, -87, 5, 1), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -79, 5, 3), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -46, 5, 6), (b'', b'\x9cS"|y\xde', 8, -43, 5, 4), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -51, 5, 3), (b'', b'\x9cS"|]\xf6', 8, -56, 5, 3), (b'', b'0\xdeKQ\xa7\x8e', 8, -85, 5, 1)]
+2021-01-01 00:00:24 [debug    / 122kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 17:18:28 [debug    / 120kB] NTP: (2023, 6, 26, 17, 18, 27, 0, 177)
+2023-06-26 17:18:28 [info     / 110kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 110kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -38, 5, 8), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -45, 5, 7), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -83, 5, 4), (b'Our House', b'\x04\xd4\xc4\x1b\x06`', 2, -89, 5, 1), (b'ControlFreaks', b'H"TQ\x9a:', 8, -85, 5, 1), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -51, 5, 2), (b'', b'0\xdeKQ\xa7\x8e', 8, -84, 5, 1), (b'', b'\x9cS"|]\xf6', 8, -48, 5, 3), (b'', b'\x9cS"|y\xde', 8, -49, 5, 1)]
+2021-01-01 00:00:22 [debug    / 107kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 17:38:46 [debug    / 128kB] NTP: (2023, 6, 26, 17, 38, 45, 0, 177)
+2023-06-26 17:38:46 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:21 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 111kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -38, 5, 11), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -75, 5, 3), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -43, 5, 2), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -54, 5, 3), (b'', b'\x9cS"|y\xde', 8, -44, 5, 1), (b'', b'0\xdeKQ\xa7\x8e', 8, -82, 5, 1), (b'', b'\x9cS"|]\xf6', 8, -54, 5, 2)]
+2021-01-01 00:00:22 [debug    / 108kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 17:59:06 [debug    / 129kB] NTP: (2023, 6, 26, 17, 59, 5, 0, 177)
+2023-06-26 17:59:06 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 111kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -40, 5, 6), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -48, 5, 4), (b'Our House', b'\x04\xd4\xc4\x1b\x06`', 2, -92, 5, 1), (b'', b'\x9cS"|]\xf6', 8, -57, 5, 2), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -50, 5, 2), (b'', b'0\xdeKQ\xa7\x8e', 8, -78, 5, 1), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -77, 5, 1), (b'', b'\x9cS"|y\xde', 8, -43, 5, 1)]
+2021-01-01 00:00:22 [debug    / 107kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 18:19:26 [debug    / 129kB] NTP: (2023, 6, 26, 18, 19, 25, 0, 177)
+2023-06-26 18:19:26 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:22 [debug    / 118kB] > IP 192.168.0.132
+2021-01-01 00:00:23 [debug    / 114kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -38, 5, 10), (b'', b'\x9cS"|y\xde', 8, -37, 5, 3), (b'Our House', b'\x04\xd4\xc4\x1b\x06`', 2, -84, 5, 1), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -49, 5, 3), (b'', b'\x9cS"|]\xf6', 8, -49, 5, 2), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -44, 5, 4), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -85, 5, 1)]
+2021-01-01 00:00:23 [debug    / 111kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 18:39:48 [debug    / 109kB] NTP: (2023, 6, 26, 18, 39, 47, 0, 177)
+2023-06-26 18:39:48 [info     / 123kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:22 [debug    / 118kB]   - connecting
+2021-01-01 00:00:22 [debug    / 116kB] > IP 192.168.0.132
+2021-01-01 00:00:24 [debug    /  78kB] > APSCAN [(b'', b'\x9cS"|y\xde', 8, -38, 5, 3), (b'ControlFreaks', b'\x9e#"|y\xde', 8, -39, 5, 9), (b'Our House', b'\x04\xd4\xc4\x1b\x06`', 2, -89, 5, 1), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -50, 5, 3), (b'', b'\x9cS"|]\xf6', 8, -48, 5, 2), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -47, 5, 2)]
+2021-01-01 00:00:24 [debug    / 127kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 19:00:09 [debug    / 125kB] NTP: (2023, 6, 26, 19, 0, 8, 0, 177)
+2023-06-26 19:00:09 [info     / 115kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:22 [debug    / 118kB]   - connecting
+2021-01-01 00:00:22 [debug    / 116kB] > IP 192.168.0.132
+2021-01-01 00:00:24 [debug    / 112kB] > APSCAN [(b'', b'\x9cS"|y\xde', 8, -41, 5, 4), (b'ControlFreaks', b'\x9e#"|y\xde', 8, -39, 5, 10), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -48, 5, 4), (b'', b'0\xdeKQ\xa7\x8e', 8, -71, 5, 2), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -50, 5, 4), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -68, 5, 3), (b'', b'\x9cS"|]\xf6', 8, -57, 5, 1)]
+2021-01-01 00:00:24 [debug    / 109kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 19:20:29 [debug    / 107kB] NTP: (2023, 6, 26, 19, 20, 28, 0, 177)
+2023-06-26 19:20:29 [info     / 122kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 111kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -39, 5, 8), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -51, 5, 5), (b'', b'\x9cS"|]\xf6', 8, -52, 5, 2), (b'', b'\x9cS"|y\xde', 8, -42, 5, 2), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -50, 5, 2), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -85, 5, 1)]
+2021-01-01 00:00:22 [debug    / 108kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 19:40:48 [debug    / 129kB] NTP: (2023, 6, 26, 19, 40, 47, 0, 177)
+2023-06-26 19:40:48 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:22 [debug    / 118kB]   - connecting
+2021-01-01 00:00:22 [debug    / 116kB] > IP 192.168.0.132
+2021-01-01 00:00:23 [debug    / 112kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -39, 5, 3), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -79, 5, 3), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -50, 5, 4), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -51, 5, 2), (b'', b'0\xdeKQ\xa7\x8e', 8, -79, 5, 2), (b'', b'\x9cS"|]\xf6', 8, -52, 5, 2), (b'', b'\x9cS"|y\xde', 8, -53, 5, 1)]
+2021-01-01 00:00:23 [debug    / 109kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 20:01:09 [debug    / 107kB] NTP: (2023, 6, 26, 20, 1, 8, 0, 177)
+2023-06-26 20:01:09 [info     / 122kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:21 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 110kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -40, 5, 8), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -50, 5, 5), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -76, 5, 2), (b'Our House', b'\x04\xd4\xc4\x1b\x06`', 2, -94, 5, 1), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -51, 5, 2), (b'', b'\x9cS"|y\xde', 8, -44, 5, 1), (b'', b'0\xdeKQ\xa7\x8e', 8, -83, 5, 1), (b'', b'\x9cS"|]\xf6', 8, -60, 5, 1)]
+2021-01-01 00:00:22 [debug    / 107kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 20:21:28 [debug    / 129kB] NTP: (2023, 6, 26, 20, 21, 27, 0, 177)
+2023-06-26 20:21:28 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:21 [debug    /  80kB] > IP 192.168.0.132
+2021-01-01 00:00:23 [debug    / 127kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|y\xde', 8, -41, 5, 8), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -76, 5, 3), (b'', b'\x9cS"|y\xde', 8, -41, 5, 3), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -55, 5, 5), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -49, 5, 1), (b'', b'0\xdeKQ\xa7\x8e', 8, -79, 5, 2), (b'ControlFreaks', b'H"TQ\x9a:', 8, -87, 5, 1), (b'', b'\x9cS"|]\xf6', 8, -59, 5, 2)]
+2021-01-01 00:00:23 [debug    / 124kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 20:41:49 [debug    / 122kB] NTP: (2023, 6, 26, 20, 41, 48, 0, 177)
+2023-06-26 20:41:49 [info     / 112kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 110kB] > APSCAN [(b'ControlFreaks', b'\x9e#"|]\xf6', 8, -54, 5, 5), (b'ControlFreaks', b'H"TQ\x9a:', 8, -86, 5, 1), (b'ControlFreaks', b'\x9e#"|y\xde', 8, -40, 5, 8), (b'', b'\x9cS"|y\xde', 8, -41, 5, 1), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -46, 5, 2), (b'', b'0\xdeKQ\xa7\x8e', 8, -83, 5, 1), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -84, 5, 1), (b'', b'\x9cS"|]\xf6', 8, -59, 5, 1)]
+2021-01-01 00:00:22 [debug    / 107kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 21:02:08 [debug    / 129kB] NTP: (2023, 6, 26, 21, 2, 7, 0, 177)
+2023-06-26 21:02:09 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 111kB] > APSCAN [(b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -77, 5, 1), (b'ControlFreaks', b'\x9e#"|y\xde', 8, -38, 5, 5), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -46, 5, 3), (b'', b'\x9cS"|]\xf6', 8, -44, 5, 3), (b'', b'\x9cS"|y\xde', 8, -40, 5, 2), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -43, 5, 2)]
+2021-01-01 00:00:22 [debug    / 108kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 21:22:29 [debug    / 129kB] NTP: (2023, 6, 26, 21, 22, 28, 0, 177)
+2023-06-26 21:22:29 [info     / 119kB] > starting web server on port 80
+2021-01-01 00:00:13 [debug    / 120kB]   - connecting
+2021-01-01 00:00:19 [debug    / 118kB]   - connecting
+2021-01-01 00:00:20 [debug    / 116kB]   - wrong password
+2021-01-01 00:00:20 [debug    / 114kB] > IP 192.168.0.132
+2021-01-01 00:00:22 [debug    / 110kB] > APSCAN [(b'', b'\x9cS"|]\xf6', 8, -49, 5, 2), (b'ControlFreaks', b'2\xaeKQ\xa7\x8e', 8, -77, 5, 4), (b'ControlFreaks', b'\x9e#"|]\xf6', 8, -47, 5, 4), (b'ControlFreaks', b'\x9e#"|y\xde', 8, -38, 5, 6), (b'Our House', b'\x04\xd4\xc4\x1b\x06`', 2, -90, 5, 1), (b'', b'\x9cS"|y\xde', 8, -84, 5, 1), (b'Joiner Starlink', b'\xfe~\xe8&\xafB', 6, -41, 5, 1), (b'', b'0\xdeKQ\xa7\x8e', 8, -80, 5, 1)]
+2021-01-01 00:00:22 [debug    / 107kB] ifconf: ('192.168.0.132', '255.255.255.0', '192.168.0.1', '192.168.0.1')
+2023-06-26 21:42:49 [debug    / 129kB] NTP: (2023, 6, 26, 21, 42, 48, 0, 177)
+2023-06-26 21:42:49 [info     / 119kB] > starting web server on port 80
