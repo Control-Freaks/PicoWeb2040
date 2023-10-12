@@ -5,3 +5,7 @@ This project runs on a RP2040 W and is programmed mostly in Micropython v1.20.0
 
 
 ![IMG_9877](https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/6392c8ea-fddf-4579-abf3-7f42750f67ee)
+<img width="1280" alt="login" src="https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/ff966722-caa8-456d-90ee-a8336458a916">
+<img width="1280" alt="home" src="https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/520bee07-ecdb-424d-83d2-22a673c6b2d5">
+<img width="1280" alt="log" src="https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/15c8280e-e038-4e02-8584-09c2e9b28d32">
+<img width="1280" alt="ftp" src="https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/58a4d07f-76bd-4c8a-a116-e2f95e5d3290">
