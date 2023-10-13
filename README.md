@@ -24,7 +24,7 @@ Login Screen:
 <img width="1280" alt="login" src="https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/ff966722-caa8-456d-90ee-a8336458a916">
 
 Home Screen:
-<img width="1280" alt="Home Screen" src="https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/d2703250-cc4a-4ab8-aa56-856ff94d4bab">
+<img width="1280" alt="Home Screen" src="https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/d36a4148-2199-4f38-95d4-9daf5d89e138">
 
 Log File Screen:
 <img width="1280" alt="log" src="https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/15c8280e-e038-4e02-8584-09c2e9b28d32">
