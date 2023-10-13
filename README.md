@@ -6,7 +6,7 @@ PicoWeb2040 Project
 
 • Run on bare Raspberry Pi Pico W or add carrier board for some pin protection and handy screw terminals.
 
-• Query data or set output state with Node-RED or view and control in web browser.
+• Query data and set output state with Node-RED or view and control in web browser.
 
 • Simply flash RP2040 W with https://rpf.io/pico-w-firmware and copy all files to board using Thonny.
 
