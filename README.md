@@ -8,6 +8,8 @@ PicoWeb2040 Project
 
 • Query data and set output state with Node-RED or view and control in web browser.
 
+• Interrupt bootup to force RP2040 into AP mode for field service. Use FTP to change WiFi connect info.
+
 • Simply flash RP2040 W with https://rpf.io/pico-w-firmware and copy all files to board using Thonny.
 
 • Disclaimer:  Not intended for production applications - security is unsophisticated - use at your own risk.
