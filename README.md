@@ -14,7 +14,7 @@ PicoWeb2040 Project
 
 
 Carrier Board Schematic:
-![schematic](https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/55c05a82-6cb0-44b1-9ea0-b04dbe2ac177)
+![schematic](https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/c29caee8-2b6d-4535-8a2d-6f9dd8cba51a)
 
 Carrier Board Physical Layout:
 ![Carrier Board Physical](https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/ecdca6a7-b468-47ec-8a8f-25d20537e71c)
@@ -30,7 +30,8 @@ Log File Screen:
 
 
 FTP Active Screen:
-<img width="1280" alt="ftp" src="https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/58a4d07f-76bd-4c8a-a116-e2f95e5d3290">
+<img width="1280" alt="ftp 6 56 30 PM" src="https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/fe222cd9-96bf-4155-8548-76b93275e3b6">
+
 
 NodeRED GET Data Example:
 <img width="1280" alt="NodeRED GET Data Example" src="https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/f5e81ecc-6cd0-46f9-8522-78582f6add39">
