@@ -1,6 +1,6 @@
 PicoWeb2040 Project
 
-• Runs on a RP2040 W and is programmed mostly in Micropython v1.20.0 with simple HTML.
+• Runs on a RP2040 W and is programmed mostly in Micropython v1.20.0 or later and with some HTML.
 
 • Run on bare Raspberry Pi Pico W or add carrier board for some pin protection and screw terminals.
 
