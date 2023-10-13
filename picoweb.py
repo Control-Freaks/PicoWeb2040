@@ -167,7 +167,7 @@ def login_form(request):
         username = request.form.get('username', None)
         password = request.form.get('password', None)
 
-        if username == 'picoweb' and password == 'control900289':             
+        if username == 'picoweb' and password == '12345678':             
             return render_template('/html/index.html',**template())
         else:          
             return render_template('/html/login.html',**template())
