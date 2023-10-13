@@ -16,18 +16,18 @@ PicoWeb2040 Project
 Carrier Board Schematic:
 ![schematic](https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/55c05a82-6cb0-44b1-9ea0-b04dbe2ac177)
 
-
 Carrier Board Physical Layout:
-![IMG_9877](https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/6392c8ea-fddf-4579-abf3-7f42750f67ee)
+![Carrier Board Physical](https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/ecdca6a7-b468-47ec-8a8f-25d20537e71c)
 
 Login Screen:
-<img width="1280" alt="login" src="https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/ff966722-caa8-456d-90ee-a8336458a916">
+<img width="1280" alt="login" src="https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/3acee6a2-741d-4ef2-9cad-b1aaf3cdcc6a">
 
 Home Screen:
-<img width="1280" alt="Home Screen" src="https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/d36a4148-2199-4f38-95d4-9daf5d89e138">
+<img width="1280" alt="home 6 56 30 PM" src="https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/296c50e1-60bc-487d-a013-81ef6177b9ee">
 
 Log File Screen:
-<img width="1280" alt="log" src="https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/15c8280e-e038-4e02-8584-09c2e9b28d32">
+<img width="1280" alt="log" src="https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/745c4608-3251-49dd-8cbb-0f96eb13a6e9">
+
 
 FTP Active Screen:
 <img width="1280" alt="ftp" src="https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/58a4d07f-76bd-4c8a-a116-e2f95e5d3290">
