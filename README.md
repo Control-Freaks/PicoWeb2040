@@ -8,7 +8,7 @@ PicoWeb2040 Project
 
 • Works with Node-RED or view and control in web browser.
 
-• Just flash RP2040 W with https://rpf.io/pico-w-firmware and copy all files to board using Thonny.
+• Simply flash RP2040 W with https://rpf.io/pico-w-firmware and copy all files to board using Thonny.
 
 • Disclaimer:  Not intended for production applications - security is unsophisticated - use at your own risk.
 
