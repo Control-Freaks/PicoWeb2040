@@ -33,10 +33,11 @@ FTP Active Screen:
 <img width="1280" alt="ftp" src="https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/58a4d07f-76bd-4c8a-a116-e2f95e5d3290">
 
 NodeRED GET Data Example:
-<img width="1280" alt="NodeRED GET Data Example" src="https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/269c533c-f591-44de-a8de-98dbbae6ae7c">
+<img width="1280" alt="NodeRED GET Data Example" src="https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/f5e81ecc-6cd0-46f9-8522-78582f6add39">
 
 NodeRED GET Output Example:
-<img width="1280" alt="NodeRED GET Output Example" src="https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/7662ab26-94b9-4e12-8c04-21671e1693ed">
+<img width="1280" alt="NodeRED GET Output Example" src="https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/70a8b26b-afe3-44c2-addc-4f23f04591b3">
+
 
 
 
