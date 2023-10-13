@@ -1,7 +1,7 @@
 # https://github.com/pimoroni/phew/blob/main/README.md#add_route
-# Added a few functions to the original phew (link above) for this project!
+# Added a few functions to the original phew (link above) for this project
 # Transmit editor works well for FTP file transfer
-# Drag and drop> rp2-pico-w-20221220-unstable-v1.19.1-782-g699477d12.uf2
+# Drag and drop> rp2-pico-w-20221220-unstable-v1.19.1-782-g699477d12.uf2 or later
 from phew import connect_to_wifi,access_point,logging,server,ifconf,apscan,pico_mac,aprssi,ntp 
 from phew.template import render_template
 from phew.logging import datetime_string
