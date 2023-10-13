@@ -6,7 +6,7 @@ PicoWeb2040 Project
 
 • Run on naked Raspberry Pi Pico W or add carrier board for some pin protection and screw terminals. 
 
-• Disclaimer: Not intended for production applications - security is unsophisticated - use at own risk.
+• Disclaimer:  Not intended for production applications - security is unsophisticated - use at own risk.
 
 ![schematic](https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/55c05a82-6cb0-44b1-9ea0-b04dbe2ac177)
 ![IMG_9877](https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/6392c8ea-fddf-4579-abf3-7f42750f67ee)
