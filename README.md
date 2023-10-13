@@ -21,8 +21,17 @@ Login Screen:
 Home Screen:
 <img width="1280" alt="home" src="https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/520bee07-ecdb-424d-83d2-22a673c6b2d5">
 
-
+Log File Screen:
 <img width="1280" alt="log" src="https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/15c8280e-e038-4e02-8584-09c2e9b28d32">
 
-
+FTP Active Screen:
 <img width="1280" alt="ftp" src="https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/58a4d07f-76bd-4c8a-a116-e2f95e5d3290">
+
+NodeRED GET Data Example:
+<img width="1280" alt="NodeRED GET Data Example" src="https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/269c533c-f591-44de-a8de-98dbbae6ae7c">
+
+NodeRED GET Output Example:
+<img width="1280" alt="NodeRED GET Output Example" src="https://github.com/Control-Freaks/PicoWeb2040/assets/147648974/7662ab26-94b9-4e12-8c04-21671e1693ed">
+
+
+
