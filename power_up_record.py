@@ -1,1 +1,1 @@
-last_power_up = 'interrupted'
+last_power_up = 'clean'
