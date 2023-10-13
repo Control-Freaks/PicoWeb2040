@@ -1,10 +1,14 @@
 PicoWeb2040 Project
 
-• View/log sensor data while controlling fans, pumps, lights etc. with WiFi enabled basic web server.
-
 • Runs on a RP2040 W and is programmed mostly in Micropython v1.20.0 with simple HTML.
 
-• Run on naked Raspberry Pi Pico W or add carrier board for some pin protection and screw terminals. 
+• Run on bare Raspberry Pi Pico W or add carrier board for some pin protection and screw terminals.
+
+• View/log sensor data while controlling fans, pumps, lights etc. with WiFi enabled basic web server.
+
+• Works with Node-RED or view and control in web browser.
+
+• Just flash RP2040 W with https://rpf.io/pico-w-firmware and copy all files to board using Thonny.
 
 • Disclaimer:  Not intended for production applications - security is unsophisticated - use at your own risk.
 
