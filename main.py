@@ -1,4 +1,4 @@
-# Power interruption during slow blink will switch picoweb into 'ap' mode on following
+# Power interruption during slow blink will switch picoweb into 'ap' mode on following.
 # power up. Picoweb will run in 'ap' mode for 5 minutes before rebooting into "sta" mode
 import time
 import machine
